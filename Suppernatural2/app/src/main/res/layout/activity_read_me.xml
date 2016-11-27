@@ -14,5 +14,5 @@
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
    android:textSize="25sp"
-    android:text="this is a fan made app for supernatural show,this app is basically for people who have not watched previous seasons or are still watching but dont want to miss the 12th season comming this 13th october,SPOILER ALERT there will be spoilers in this app so dont read anything is u dont like spoilers,some content of this app has been copied from some websites"/>
+    android:text="@string/read_me"/>
 </LinearLayout>

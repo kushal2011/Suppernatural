@@ -1,0 +1,7 @@
+#Sun Nov 27 17:42:45 IST 2016
+base.0=E\:\\files\\android_projects\\Suppernatural\\Suppernatural2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_808620fdbded22fc8bbfa17d10ef2edd8eaaa756
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\files\\android_projects\\Suppernatural\\Suppernatural2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7243fada549402cc7f8f91e03fcc5232a8452d08\\classes.dex
+base.1=E\:\\files\\android_projects\\Suppernatural\\Suppernatural2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7243fada549402cc7f8f91e03fcc5232a8452d08
+file.0=E\:\\files\\android_projects\\Suppernatural\\Suppernatural2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_808620fdbded22fc8bbfa17d10ef2edd8eaaa756\\classes.dex

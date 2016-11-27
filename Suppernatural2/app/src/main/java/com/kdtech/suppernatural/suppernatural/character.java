@@ -7,7 +7,7 @@ package com.kdtech.suppernatural.suppernatural;
 public class character {
     public String nCharName;
     public int nCharImg;
-
+//will accept and return name and image for custon listView
     public character(String vCharName,int vCharImg){
         nCharName = vCharName;
         nCharImg = vCharImg;

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_aee5ae0898a9214f582a55ff7dedcb841beeb0b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7e6ed2ba28628657bbcca4ef050dd4fb2fbe665f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kusha_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_291a5a9d4c6c92d94da4f17d41681f63edca084a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d2fdd4dda0f67cc42bd141e402f0aea24df8b0b4">
+        <dex dex="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7243fada549402cc7f8f91e03fcc5232a8452d08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_c75d2b99074b49e7f77c6f95418c2f7553b8aab0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_061dce91fb9bd385d060166db07c1fd69a7a3989\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af8b7cde13193b836efc9ccb3fb0ef941a88ca58">
+        <dex dex="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_808620fdbded22fc8bbfa17d10ef2edd8eaaa756\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_9f3f4db982026284f153cb8b6e7dea19697af5c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_4fc3f5c6d5cb04b0f872028cc35b6c9714b53261\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_06e1f797cf9f4c9ac3bcccd339ba8456a0bf68b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_291649051f710e9d5174da2486d0f77a65a4629a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ed80b0e76b39f7c0d410c0c1c6965cfe9aedb1c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_36500d2ab02bb06acd84f176e0f50432d73b7de6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3be65733a54fb3a412754372129b27c16cab7573\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_5c10f5962e75256f806a12294d1678d6b764c19b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_9b1e9aa047676dcf2ca8c7c6379f9c7734ef60b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_4996d92c2218aac444b248f816350b69a052e0ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_3073a22e94f84325149edd2eadefcc428cf644cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\files\android_projects\Suppernatural\Suppernatural2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_c87a780ee0e0eb758f6830ae3a2e0f5321dc8a35\classes.dex" />
+    </item>
+
+</items>

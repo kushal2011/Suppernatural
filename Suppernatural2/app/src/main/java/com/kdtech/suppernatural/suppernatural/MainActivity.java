@@ -3,10 +3,7 @@ package com.kdtech.suppernatural.suppernatural;
 import android.content.Intent;
 import android.media.MediaPlayer;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.Menu;
@@ -31,14 +28,7 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-      /* FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });*/
+//start read me activity when button is clicked
         read=(Button)findViewById(R.id.read_me);
         read.setOnClickListener(new View.OnClickListener(){
 
@@ -49,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+        //start playing song(suppernatural anthem "carry on my waywar son")
         play=(Button)findViewById(R.id.play);
         play.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -57,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 mMediaPlayer.start();
             }
         });
-
+        //resets song
         restart=(Button)findViewById(R.id.restart) ;
         restart.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -66,32 +57,34 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        //create listview
         listview1=(ListView)findViewById(R.id.firstlist);
-        final ArrayList<String> list1 = new ArrayList<String>();
-        list1.add(new String("CHARACTER"));
-        list1.add(new String("CREATURES"));
-        list1.add(new String("SEASONS"));
+        final ArrayList<String> list1 = new ArrayList<>();
+        list1.add("CHARACTER");
+        list1.add("CREATURES");
+        list1.add("SEASONS");
         final ArrayAdapter arrayAdapter1 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, android.R.id.text1, list1);
         listview1.setAdapter(arrayAdapter1);
+        //set onClick listener on each listItem
         listview1.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 Intent intent1;
                 String name = (String) arrayAdapter1.getItem(i);
-                if (name.equals("CHARACTER"))
-                {
-                    intent1 = new Intent(MainActivity.this, characters.class);
-                    startActivity(intent1);
-                }
-                else if (name.equals("CREATURES"))
-                {
-                    intent1 = new Intent(MainActivity.this, creatures.class);
-                    startActivity(intent1);
-                }
-                else if (name.equals("SEASONS"))
-                {
-                    intent1 = new Intent(MainActivity.this, seasons.class);
-                    startActivity(intent1);
+                assert name != null;
+                switch (name) {
+                    case "CHARACTER":
+                        intent1 = new Intent(MainActivity.this, characters.class);
+                        startActivity(intent1);
+                        break;
+                    case "CREATURES":
+                        intent1 = new Intent(MainActivity.this, creatures.class);
+                        startActivity(intent1);
+                        break;
+                    case "SEASONS":
+                        intent1 = new Intent(MainActivity.this, seasons.class);
+                        startActivity(intent1);
+                        break;
                 }
             }
         });

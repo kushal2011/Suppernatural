@@ -19,7 +19,7 @@ import java.util.ArrayList;
 
 public class characterAdapter extends ArrayAdapter<character> {
 
-
+//array adapter for list view
     public characterAdapter(Activity context, ArrayList<character>character) {
         super(context,0,character);
     }

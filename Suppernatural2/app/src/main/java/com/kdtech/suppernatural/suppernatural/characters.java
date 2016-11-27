@@ -15,7 +15,7 @@ ListView charList;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_characters);
-
+        //create's arraylist of seasons
         final ArrayList<character> characters= new ArrayList<character>();
             characters.add(new character("SAM WINCHESTER",R.drawable.samwinchester));
             characters.add(new character("DEAN WINCHESTER",R.drawable.deanwinchester));
@@ -33,6 +33,7 @@ ListView charList;
         final characterAdapter characterAdapter = new characterAdapter(this,characters);
         charList = (ListView)findViewById(R.id.character_list);
         charList.setAdapter(characterAdapter);
+        //set onClickListener on listItems
         charList.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
